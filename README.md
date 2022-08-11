@@ -1,4 +1,4 @@
-# Flask Head Detection
+# Flask Head Detection with Blur
 Head detection using [YOLOv7](https://github.com/WongKinYiu/yolov7) and Flask. \
 Execute following command in the main directory to run the program.
 ```
